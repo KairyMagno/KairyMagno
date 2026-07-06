@@ -1,8 +1,8 @@
-# ⚡ KAIRY KEN MAGNO
+⚡ KAIRY KEN MAGNO
 
-
-  ![BackgroundCover](images/BackgroundCover.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems+%F0%9F%9A%80" />
@@ -19,7 +19,7 @@ STACK       : Laravel • PHP • JavaScript • MySQL • n8n • Docker
 LOCATION    : Philippines 🇵🇭
 STATUS      : OPEN TO JUNIOR DEVELOPER ROLES
 MODE        : BUILDING REAL SYSTEMS
-```
+````
 
 ---
 
@@ -40,7 +40,7 @@ MODE        : BUILDING REAL SYSTEMS
 
 > I don’t build projects. I build systems.
 
-Full-Stack Developer focused on **automation, backend systems, and real-world applications**.
+Full-Stack Developer focused on automation, backend systems, and real-world applications.
 
 * ⚙️ Laravel backend systems
 * 🤖 AI automation (n8n + LLMs)
@@ -51,7 +51,7 @@ Full-Stack Developer focused on **automation, backend systems, and real-world ap
 
 ## 🚀 FEATURED PROJECTS
 
-### 🕒 DTR SYSTEM
+### 🕒 DTR MANAGEMENT SYSTEM
 
 Laravel • PHP • MySQL • Tailwind
 [https://github.com/KairyMagno/dtr-management-system](https://github.com/KairyMagno/dtr-management-system)
@@ -72,17 +72,27 @@ Unity • C#
 
 ---
 
-### 🏀 HOOPSHUB
+### 🏀 HOOPSHUB MOBILE
 
 Flutter • Dart
 [https://github.com/KairyMagno/HoopsHub-Mobile](https://github.com/KairyMagno/HoopsHub-Mobile)
 
 ---
 
-### 🌾 AGRI SYSTEM
+### 🌾 AGRICULTURE SYSTEM
 
 PHP • MySQL • JavaScript
 [https://github.com/KairyMagno/Rizal-Agriculture-Management-System](https://github.com/KairyMagno/Rizal-Agriculture-Management-System)
+
+---
+
+## 📸 PROJECT PREVIEW
+
+<p align="center">
+
+![DTR System](https://raw.githubusercontent.com/KairyMagno/dtr-management-system/main/screenshots/Starting.png)
+
+</p>
 
 ---
 
@@ -100,11 +110,15 @@ PHP • MySQL • JavaScript
 ## 📊 GITHUB METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KairyMagno&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KairyMagno&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairyMagno&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KairyMagno&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairyMagno&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -122,10 +136,14 @@ If it does not scale → I redesign it
 
 ## 📡 CONTACT
 
-📧 [Email](mailto:kairymagno@gmail.com)
+📧 Email: [kairymagno@gmail.com](mailto:kairymagno@gmail.com)
 📱 0915 957 4952
-🌐 [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
+🌐 Portfolio: [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
 
 ---
 
 # ⚡ END OF SYSTEM
+
+```
+and I’ll convert this into a real developer landing page.
+```
