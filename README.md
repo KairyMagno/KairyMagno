@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=1200&lines=INITIALIZING+KAIRY.OS...;AUTHENTICATING+DEVELOPER...;FULL-STACK+ENGINEER+%E2%9C%94;LARAVEL+%7C+PHP+%7C+MYSQL+%7C+DOCKER;AI+AUTOMATION+MODULE+LOADED;MISSION:+BUILD.+AUTOMATE.+OPTIMIZE." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=900&color=39FF14&center=true&vCenter=true&width=1100&lines=%24+whoami;kairy+ken+magno;%24+role;software+developer;%24+specialization;laravel+%7C+ai+automation;%24+status;available+for+hire" />
 </p>
 
 ---
@@ -123,5 +123,3 @@ If it does not scale → I redesign it
 📧 Email: [kairymagno@gmail.com](mailto:kairymagno@gmail.com)
 📱 0915 957 4952
 🌐 Portfolio: [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
-
----
