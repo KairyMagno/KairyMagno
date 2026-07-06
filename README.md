@@ -110,7 +110,7 @@ PHP • MySQL • JavaScript
 ## 📊 GITHUB METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kairy Magno&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KairyMagno&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
