@@ -1,7 +1,7 @@
 # ⚡ KAIRY KEN MAGNO
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/KairyMagno" width="150" style="border-radius:50%" />
+  <img src="images/BackgroundCover.png" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## ⚡ SYSTEM STATUS
 
-```txt id="irn0x1"
+```txt
 ROLE        : Software Developer
 FOCUS       : Full-Stack + AI Automation
 STACK       : Laravel • PHP • JavaScript • MySQL • n8n • Docker
@@ -51,54 +51,49 @@ Full-Stack Developer focused on **automation, backend systems, and real-world ap
 
 ## 🚀 FEATURED PROJECTS
 
-<p align="center">
-
 ### 🕒 DTR SYSTEM
 
-<a href="https://github.com/KairyMagno/dtr-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=dtr-management-system&theme=tokyonight" />
-</a>
-
-### 🤖 AI RESUME AUTOMATION
-
-<a href="https://github.com/KairyMagno/n8n-resume-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=n8n-resume-automation&theme=tokyonight" />
-</a>
-
-### 🎮 FINDING ISABEL
-
-<a href="https://github.com/KairyMagno/finding-isabel-horror-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=finding-isabel-horror-game&theme=tokyonight" />
-</a>
-
-### 🏀 HOOPSHUB
-
-<a href="https://github.com/KairyMagno/HoopsHub-Mobile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=HoopsHub-Mobile&theme=tokyonight" />
-</a>
-
-### 🌾 AGRI SYSTEM
-
-<a href="https://github.com/KairyMagno/Rizal-Agriculture-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=Rizal-Agriculture-Management-System&theme=tokyonight" />
-</a>
-
-</p>
+Laravel • PHP • MySQL • Tailwind
+[https://github.com/KairyMagno/dtr-management-system](https://github.com/KairyMagno/dtr-management-system)
 
 ---
 
-## ⚙️ TECH STACK (LIVE VISUALS)
+### 🤖 AI RESUME AUTOMATION
 
-<p align="center">
+n8n • Groq LLM • Docker • Google APIs
+[https://github.com/KairyMagno/n8n-resume-automation](https://github.com/KairyMagno/n8n-resume-automation)
+
+---
+
+### 🎮 FINDING ISABEL
+
+Unity • C#
+[https://github.com/KairyMagno/finding-isabel-horror-game](https://github.com/KairyMagno/finding-isabel-horror-game)
+
+---
+
+### 🏀 HOOPSHUB
+
+Flutter • Dart
+[https://github.com/KairyMagno/HoopsHub-Mobile](https://github.com/KairyMagno/HoopsHub-Mobile)
+
+---
+
+### 🌾 AGRI SYSTEM
+
+PHP • MySQL • JavaScript
+[https://github.com/KairyMagno/Rizal-Agriculture-Management-System](https://github.com/KairyMagno/Rizal-Agriculture-Management-System)
+
+---
+
+## ⚙️ TECH STACK
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![n8n](https://img.shields.io/badge/n8n-A435F0?style=for-the-badge)
-
-</p>
 
 ---
 
@@ -116,7 +111,7 @@ Full-Stack Developer focused on **automation, backend systems, and real-world ap
 
 ## ⚡ ENGINEERING MINDSET
 
-```txt id="v9m2xk"
+```txt
 If it is manual → I automate it  
 If it is slow → I optimize it  
 If it is messy → I structure it  
@@ -127,7 +122,7 @@ If it does not scale → I redesign it
 
 ## 📡 CONTACT
 
-📧 [kairymagno@gmail.com](mailto:kairymagno@gmail.com)
+📧 [Email](mailto:kairymagno@gmail.com)
 📱 0915 957 4952
 🌐 [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
 
