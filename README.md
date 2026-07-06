@@ -4,9 +4,7 @@
   <img src="https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=900&color=39FF14&center=true&vCenter=true&width=1100&lines=%24+whoami;kairy+ken+magno;%24+role;software+developer;%24+specialization;laravel+%7C+ai+automation;%24+status;available+for+hire" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems+%F0%9F%9A%80" /> </p>
 
 ---
 
