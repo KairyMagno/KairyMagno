@@ -1,127 +1,157 @@
 # ⚡ KAIRY KEN MAGNO
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems" />
+  <img src="https://avatars.githubusercontent.com/KairyMagno" width="150" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ⚡ SYSTEM STATUS
 
-Full-Stack Developer from the Philippines focused on building **real-world systems and automation tools**.
+```txt id="irn0x1"
+ROLE        : Software Developer
+FOCUS       : Full-Stack + AI Automation
+STACK       : Laravel • PHP • JavaScript • MySQL • n8n • Docker
+LOCATION    : Philippines 🇵🇭
+STATUS      : OPEN TO JUNIOR DEVELOPER ROLES
+MODE        : BUILDING REAL SYSTEMS
+```
 
-I specialize in:
+---
 
-* ⚙️ Backend development (Laravel / PHP)
+## 🌐 LIVE LINKS
+
+<p align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-00C896?style=for-the-badge\&logo=vercel)](https://kairymagno.github.io/portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/KairyMagno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/kairy-ken-magno)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge\&logo=gmail)](mailto:kairymagno@gmail.com)
+
+</p>
+
+---
+
+## 🧠 ABOUT ME
+
+> I don’t build projects. I build systems.
+
+Full-Stack Developer focused on **automation, backend systems, and real-world applications**.
+
+* ⚙️ Laravel backend systems
 * 🤖 AI automation (n8n + LLMs)
 * 🔌 API integrations
-* 🗄️ Database systems (MySQL)
-
-I build systems that replace manual work with automation and scalable logic.
+* 🗄️ Database-driven platforms
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-### 🕒 DTR Management System
+<p align="center">
 
-Laravel • PHP • MySQL
+### 🕒 DTR SYSTEM
 
-✔ Attendance automation system
-✔ Role-based authentication
-✔ Leave management workflow
-✔ Admin dashboard + analytics
+<a href="https://github.com/KairyMagno/dtr-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=dtr-management-system&theme=tokyonight" />
+</a>
 
-🔗 [https://github.com/KairyMagno/dtr-management-system](https://github.com/KairyMagno/dtr-management-system)
+### 🤖 AI RESUME AUTOMATION
 
----
+<a href="https://github.com/KairyMagno/n8n-resume-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=n8n-resume-automation&theme=tokyonight" />
+</a>
 
-### 🤖 AI Resume Screening System
+### 🎮 FINDING ISABEL
 
-n8n • Groq LLM • Docker • Google APIs
+<a href="https://github.com/KairyMagno/finding-isabel-horror-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=finding-isabel-horror-game&theme=tokyonight" />
+</a>
 
-✔ AI resume parsing & classification
-✔ Automated HR email system
-✔ Google Drive + Sheets integration
-✔ Duplicate detection system
+### 🏀 HOOPSHUB
 
-🔗 [https://github.com/KairyMagno/n8n-resume-automation](https://github.com/KairyMagno/n8n-resume-automation)
+<a href="https://github.com/KairyMagno/HoopsHub-Mobile">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=HoopsHub-Mobile&theme=tokyonight" />
+</a>
 
----
+### 🌾 AGRI SYSTEM
 
-### 🎮 Finding Isabel (Capstone Game)
+<a href="https://github.com/KairyMagno/Rizal-Agriculture-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KairyMagno&repo=Rizal-Agriculture-Management-System&theme=tokyonight" />
+</a>
 
-Unity • C#
-
-✔ Horror exploration gameplay
-✔ Puzzle system
-✔ Story-driven experience
-✔ Award-winning capstone project
-
-🔗 [https://github.com/KairyMagno/finding-isabel-horror-game](https://github.com/KairyMagno/finding-isabel-horror-game)
+</p>
 
 ---
 
-### 🏀 HoopsHub Mobile App
+## ⚙️ TECH STACK (LIVE VISUALS)
 
-Flutter • Dart
+<p align="center">
 
-✔ Basketball gym management system
-✔ Coach & schedule system
-✔ Equipment tracking
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![n8n](https://img.shields.io/badge/n8n-A435F0?style=for-the-badge)
 
-🔗 [https://github.com/KairyMagno/HoopsHub-Mobile](https://github.com/KairyMagno/HoopsHub-Mobile)
-
----
-
-### 🌾 Agriculture Management System
-
-PHP • MySQL • JavaScript
-
-✔ Content management system
-✔ Admin dashboard
-✔ PDF reports & email system
-
-🔗 [https://github.com/KairyMagno/Rizal-Agriculture-Management-System](https://github.com/KairyMagno/Rizal-Agriculture-Management-System)
+</p>
 
 ---
 
-## 🛠️ TECH STACK
-
-**Languages:** PHP • JavaScript • Java • C#
-**Frameworks:** Laravel • Flutter • Tailwind CSS
-**Databases:** MySQL
-**Tools:** Git • GitHub • Docker • n8n
-**APIs:** REST • Google APIs • LLM integrations
-
----
-
-## 📊 GITHUB STATS
+## 📊 GITHUB METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KairyMagno&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairyMagno&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairyMagno&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 CONTACT
+## ⚡ ENGINEERING MINDSET
 
-📧 Email: [kairymagno@gmail.com](mailto:kairymagno@gmail.com)
-📱 Phone: 0915 957 4952
-🌐 Portfolio: [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
-💼 LinkedIn: linkedin.com/in/kairy-ken-magno
+```txt id="v9m2xk"
+If it is manual → I automate it  
+If it is slow → I optimize it  
+If it is messy → I structure it  
+If it does not scale → I redesign it
+```
 
 ---
 
-## ⚡ OBJECTIVE
+## 📡 CONTACT
 
-Seeking a **Junior Software Developer role** where I can contribute to backend systems, automation workflows, and scalable application development.
+📧 [kairymagno@gmail.com](mailto:kairymagno@gmail.com)
+📱 0915 957 4952
+🌐 [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
 
-* match this README with your actual portfolio website design
-* or make your portfolio site look like this GitHub profile
+---
 
-But for GitHub: this is already **final recruiter-grade level**.
+# ⚡ END OF SYSTEM
+
+---
+
+## 🧠 Why THIS is the final form
+
+* ✔ Image is at the very top (as you wanted)
+* ✔ Animated typing header (clean + modern)
+* ✔ Portfolio-style project cards (real UI feel)
+* ✔ Badges like a SaaS landing page
+* ✔ Minimal text, high impact
+* ✔ Recruiter scans = instant understanding
+* ✔ Feels like a **developer product page**, not a README
+
+---
+
+If you want ONE upgrade after this (optional only):
+I can turn this into a:
+
+> 🔥 “actual website version of your GitHub profile”
+
+like a real portfolio landing page that matches this README 1:1.
