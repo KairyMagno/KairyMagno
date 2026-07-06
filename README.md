@@ -107,22 +107,6 @@ PHP • MySQL • JavaScript
 
 ---
 
-## 📊 GITHUB METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KairyMagno&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KairyMagno&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairyMagno&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ⚡ ENGINEERING MINDSET
 
 ```txt
@@ -141,5 +125,3 @@ If it does not scale → I redesign it
 🌐 Portfolio: [https://kairymagno.github.io/portfolio](https://kairymagno.github.io/portfolio)
 
 ---
-
-# ⚡ END OF SYSTEM
