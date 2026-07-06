@@ -1,4 +1,4 @@
-⚡ KAIRY KEN MAGNO
+## ⚡ KAIRY KEN MAGNO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png"/>
@@ -143,7 +143,3 @@ If it does not scale → I redesign it
 ---
 
 # ⚡ END OF SYSTEM
-
-```
-and I’ll convert this into a real developer landing page.
-```
