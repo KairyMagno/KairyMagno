@@ -1,15 +1,3 @@
-Got it — we’ll stop iterating and lock in a **single clean FINAL BOSS version** that is:
-
-* professional (recruiter-ready)
-* not cluttered
-* visually strong
-* portfolio-style
-* no overdesign chaos
-
-Copy this into your GitHub profile README and you’re done 👇
-
----
-
 # ⚡ KAIRY KEN MAGNO
 
 <p align="center">
@@ -132,14 +120,6 @@ PHP • MySQL • JavaScript
 ## ⚡ OBJECTIVE
 
 Seeking a **Junior Software Developer role** where I can contribute to backend systems, automation workflows, and scalable application development.
-
----
-
-# END
-
----
-
-If you want next upgrade after this (optional, not another rewrite), I can help you:
 
 * match this README with your actual portfolio website design
 * or make your portfolio site look like this GitHub profile
