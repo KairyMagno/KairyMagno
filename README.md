@@ -1,7 +1,7 @@
 # ⚡ KAIRY KEN MAGNO
 
 <p align="center">
-  (images/BackgroundCover.png)
+  ![BackgroundCover](images/BackgroundCover.png)
 </p>
 
 <p align="center">
