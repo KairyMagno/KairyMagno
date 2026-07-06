@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+KAIRY.OS...;%3E+LOADING+FULL-STACK+MODULE...;%3E+CONNECTING+TO+LARAVEL+BACKEND...;%3E+AI+AUTOMATION+ONLINE;%3E+SYSTEM+STATUS:+READY+%E2%9C%94" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=1200&lines=INITIALIZING+KAIRY.OS...;AUTHENTICATING+DEVELOPER...;FULL-STACK+ENGINEER+%E2%9C%94;LARAVEL+%7C+PHP+%7C+MYSQL+%7C+DOCKER;AI+AUTOMATION+MODULE+LOADED;MISSION:+BUILD.+AUTOMATE.+OPTIMIZE." />
 </p>
 
 ---
