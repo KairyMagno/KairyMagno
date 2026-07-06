@@ -1,7 +1,7 @@
 ## ⚡ KAIRY KEN MAGNO
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png"/>
+  <img src="https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png" alt="banner" />
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems+%F0%9F%9A%80" /> </p>
