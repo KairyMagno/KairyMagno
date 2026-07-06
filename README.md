@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;AI+Automation+Engineer;Building+Real-World+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+KAIRY.OS...;%3E+LOADING+FULL-STACK+MODULE...;%3E+CONNECTING+TO+LARAVEL+BACKEND...;%3E+AI+AUTOMATION+ONLINE;%3E+SYSTEM+STATUS:+READY+%E2%9C%94" />
 </p>
 
 ---
