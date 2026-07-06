@@ -1,7 +1,7 @@
 # ⚡ KAIRY KEN MAGNO
 
 <p align="center">
-  <img src="images/BackgroundCover.png" />
+  ![Starting](https://raw.githubusercontent.com/KairyMagno/KairyMagno/main/images/BackgroundCover.png)
 </p>
 
 <p align="center">
