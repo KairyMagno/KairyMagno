@@ -24,14 +24,22 @@ MODE        : BUILDING REAL SYSTEMS
 ## 🌐 LIVE LINKS
 
 <p align="center">
+  <a href="https://kairymagno.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-LIVE-00C896?style=for-the-badge&logo=vercel" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-00C896?style=for-the-badge\&logo=vercel)](https://kairymagno.github.io/portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/KairyMagno)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/kairy-ken-magno)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge\&logo=gmail)](mailto:kairymagno@gmail.com)
+  <a href="https://github.com/KairyMagno">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
 
+  <a href="https://linkedin.com/in/kairy-ken-magno">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:kairymagno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
 ---
 
 ## 🧠 ABOUT ME
@@ -81,16 +89,6 @@ Flutter • Dart
 
 PHP • MySQL • JavaScript
 [https://github.com/KairyMagno/Rizal-Agriculture-Management-System](https://github.com/KairyMagno/Rizal-Agriculture-Management-System)
-
----
-
-## 📸 PROJECT PREVIEW
-
-<p align="center">
-
-![DTR System](https://raw.githubusercontent.com/KairyMagno/dtr-management-system/main/screenshots/Starting.png)
-
-</p>
 
 ---
 
